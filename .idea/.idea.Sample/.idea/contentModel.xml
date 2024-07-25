@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\redeb\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\redeb\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Sample.852195826.00" t="ExcludeRecursive" />
+    <e p="D:\Thriller\Sample" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor Default Resources" t="Include">
+          <e p="Firebase" t="Include" />
+        </e>
+        <e p="ExternalDependencyManager" t="Include">
+          <e p="Editor" t="Include">
+            <e p="1.2.176" t="Include" />
+            <e p="external-dependency-manager_version-1.2.176_manifest.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Firebase" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AppDependencies.xml" t="Include" />
+            <e p="FirebaseRemoteConfig_version-11.3.0_manifest.txt" t="Include" />
+            <e p="RemoteConfigDependencies.xml" t="Include" />
+          </e>
+          <e p="m2repository" t="Include">
+            <e p="com" t="Include">
+              <e p="google" t="Include">
+                <e p="Firebase" t="Include">
+                  <e p="firebase-app-unity" t="Include">
+                    <e p="11.3.0" t="Include" />
+                    <e p="maven-metadata.xml" t="Include" />
+                  </e>
+                  <e p="firebase-config-unity" t="Include">
+                    <e p="11.3.0" t="Include" />
+                    <e p="maven-metadata.xml" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="Ios" t="Include" />
+            <e p="x86_64" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Android" t="Include" />
+          <e p="Ios" t="Include">
+            <e p="Firebase" t="Include" />
+          </e>
+          <e p="tvOS" t="Include">
+            <e p="Firebase" t="Include" />
+          </e>
+        </e>
+        <e p="Scenes" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Fetcher.cs" t="Include" />
+          <e p="Startup.cs" t="Include" />
+          <e p="WebView.cs" t="Include" />
+        </e>
+        <e p="ThirdParty" t="Include">
+          <e p="GPM" t="Include">
+            <e p="Common" t="Include">
+              <e p="Compress" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="GpmCompress.cs" t="Include" />
+                  <e p="Internal" t="Include">
+                    <e p="CompressImplementation.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="gpm_common.asmdef" t="Include" />
+              <e p="GpmCommon.cs" t="Include" />
+              <e p="Indicator" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="GpmIndicator.cs" t="Include" />
+                  <e p="GpmIndicatorData.cs" t="Include" />
+                  <e p="Internal" t="Include">
+                    <e p="BaseIndicator.cs" t="Include" />
+                    <e p="Consts" t="Include">
+                      <e p="Launching.cs" t="Include" />
+                    </e>
+                    <e p="EditorIndicator.cs" t="Include" />
+                    <e p="Implementation" t="Include">
+                      <e p="EditorCoroutineObject.cs" t="Include" />
+                      <e p="ICoroutineObject.cs" t="Include" />
+                      <e p="InAppCoroutineObject.cs" t="Include" />
+                      <e p="IndicatorImplementation.cs" t="Include" />
+                    </e>
+                    <e p="InAppIndicator.cs" t="Include" />
+                    <e p="IndicatorField.cs" t="Include" />
+                    <e p="LaunchingRequest.cs" t="Include" />
+                    <e p="LogNCrashRequest.cs" t="Include" />
+                    <e p="UnityWebRequestHelper.cs" t="Include" />
+                    <e p="Vo" t="Include">
+                      <e p="LaunchingInfo.cs" t="Include" />
+                      <e p="QueueItem.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+              <e p="Log" t="Include">
+                <e p="GpmLogger.cs" t="Include" />
+              </e>
+              <e p="Multilanguage" t="Include">
+                <e p="GpmMultilanguage.cs" t="Include" />
+                <e p="GpmMultilanguageDefine.cs" t="Include" />
+                <e p="Internal" t="Include">
+                  <e p="MultilanguageImplementation.cs" t="Include" />
+                  <e p="MultilanguageLoader.cs" t="Include" />
+                  <e p="MultilanguageServiceData.cs" t="Include" />
+                  <e p="MultilanguageUtil.cs" t="Include" />
+                  <e p="MultilanguageXml.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Net" t="Include">
+                <e p="GpmWebRequest.cs" t="Include" />
+                <e p="ManagedCoroutineException.cs" t="Include" />
+                <e p="ManagedCorutine.cs" t="Include" />
+              </e>
+              <e p="ThirdParty" t="Include">
+                <e p="LitJson" t="Include">
+                  <e p="IJsonWrapper.cs" t="Include" />
+                  <e p="JsonData.cs" t="Include" />
+                  <e p="JsonException.cs" t="Include" />
+                  <e p="JsonMapper.cs" t="Include" />
+                  <e p="JsonMockWrapper.cs" t="Include" />
+                  <e p="JsonReader.cs" t="Include" />
+                  <e p="JsonSkipAttribute.cs" t="Include" />
+                  <e p="JsonWriter.cs" t="Include" />
+                  <e p="Lexer.cs" t="Include" />
+                  <e p="Netstandard15Polyfill.cs" t="Include" />
+                  <e p="ParserToken.cs" t="Include" />
+                </e>
+                <e p="MessagePack" t="Include">
+                  <e p="Attributes.cs" t="Include" />
+                  <e p="FloatBits.cs" t="Include" />
+                  <e p="Formatters" t="Include">
+                    <e p="CollectionFormatter.cs" t="Include" />
+                    <e p="DictionaryFormatter.cs" t="Include" />
+                    <e p="DynamicObjectTypeFallbackFormatter.cs" t="Include" />
+                    <e p="EnumAsStringFormatter.cs" t="Include" />
+                    <e p="ForceSizePrimitiveFormatter.cs" t="Include" />
+                    <e p="IgnoreFormatter.cs" t="Include" />
+                    <e p="IMessagePackFormatter.cs" t="Include" />
+                    <e p="MultiDimentionalArrayFormatter.cs" t="Include" />
+                    <e p="NullableFormatter.cs" t="Include" />
+                    <e p="OldSpecFormatter.cs" t="Include" />
+                    <e p="PrimitiveFormatter.cs" t="Include" />
+                    <e p="PrimitiveObjectFormatter.cs" t="Include" />
+                    <e p="StandardClassLibraryFormatter.cs" t="Include" />
+                    <e p="TupleFormatter.cs" t="Include" />
+                    <e p="TypelessFormatter.cs" t="Include" />
+                    <e p="UnsafeBinaryFormatters.cs" t="Include" />
+                    <e p="ValueTupleFormatter.cs" t="Include" />
+                  </e>
+                  <e p="IFormatterResolver.cs" t="Include" />
+                  <e p="IMessagePackSerializationCallbackReceiver.cs" t="Include" />
+                  <e p="Internal" t="Include">
+                    <e p="ArrayPool.cs" t="Include" />
+                    <e p="AsymmetricKeyHashTable.cs" t="Include" />
+                    <e p="AutomataDictionary.cs" t="Include" />
+                    <e p="ByteArrayComparer.cs" t="Include" />
+                    <e p="ByteArrayStringHashTable.cs" t="Include" />
+                    <e p="DynamicAssembly.cs" t="Include" />
+                    <e p="ExpressionUtility.cs" t="Include" />
+                    <e p="FarmHash.cs" t="Include" />
+                    <e p="GuidBits.cs" t="Include" />
+                    <e p="ILGeneratorExtensions.cs" t="Include" />
+                    <e p="ReflectionExtensions.cs" t="Include" />
+                    <e p="ThreadsafeTypeKeyHashTable.cs" t="Include" />
+                    <e p="TinyJsonReader.cs" t="Include" />
+                    <e p="UnsafeMemory.cs" t="Include" />
+                    <e p="UnsafeMemory.Low.cs" t="Include" />
+                  </e>
+                  <e p="LZ4" t="Include">
+                    <e p="Codec" t="Include">
+                      <e p="LZ4Codec.cs" t="Include" />
+                      <e p="LZ4Codec.Helper.cs" t="Include" />
+                      <e p="LZ4Codec.Safe.cs" t="Include" />
+                      <e p="LZ4Codec.Safe32.Dirty.cs" t="Include" />
+                      <e p="LZ4Codec.Safe64.Dirty.cs" t="Include" />
+                      <e p="LZ4Codec.Unsafe.cs" t="Include" />
+                      <e p="LZ4Codec.Unsafe32.Dirty.cs" t="Include" />
+                      <e p="LZ4Codec.Unsafe64.Dirty.cs" t="Include" />
+                    </e>
+                    <e p="LZ4MessagePackSerializer.cs" t="Include" />
+                    <e p="LZ4MessagePackSerializer.JSON.cs" t="Include" />
+                    <e p="LZ4MessagePackSerializer.NonGeneric.cs" t="Include" />
+                  </e>
+                  <e p="MessagePackBinary.cs" t="Include" />
+                  <e p="MessagePackCode.cs" t="Include" />
+                  <e p="MessagePackSerializer.cs" t="Include" />
+                  <e p="MessagePackSerializer.Json.cs" t="Include" />
+                  <e p="MessagePackSerializer.NonGeneric.cs" t="Include" />
+                  <e p="Nil.cs" t="Include" />
+                  <e p="Resolvers" t="Include">
+                    <e p="AttributeFormatterResolver.cs" t="Include" />
+                    <e p="BuiltinResolver.cs" t="Include" />
+                    <e p="CompositeResolver.cs" t="Include" />
+                    <e p="ContractlessReflectionObjectResolver.cs" t="Include" />
+                    <e p="DynamicEnumAsStringResolver.cs" t="Include" />
+                    <e p="DynamicEnumResolver.cs" t="Include" />
+                    <e p="DynamicGenericResolver.cs" t="Include" />
+                    <e p="DynamicObjectResolver.cs" t="Include" />
+                    <e p="DynamicUnionResolver.cs" t="Include" />
+                    <e p="NativeDateTimeResolver.cs" t="Include" />
+                    <e p="OldSpecResolver.cs" t="Include" />
+                    <e p="PrimitiveObjectResolver.cs" t="Include" />
+                    <e p="StandardResolver.cs" t="Include" />
+                    <e p="TypelessContractlessStandardResolver.cs" t="Include" />
+                    <e p="TypelessObjectResolver.cs" t="Include" />
+                    <e p="UnsafeBinaryResolver.cs" t="Include" />
+                  </e>
+                  <e p="Shims" t="Include">
+                    <e p="Reflection.cs" t="Include" />
+                  </e>
+                  <e p="StringEncoding.cs" t="Include" />
+                  <e p="Unity" t="Include">
+                    <e p="Formatters.cs" t="Include" />
+                    <e p="UnityResolver.cs" t="Include" />
+                  </e>
+                  <e p="UnsafeExtensions" t="Include">
+                    <e p="UnityBlitResolver.cs" t="Include" />
+                    <e p="UnsafeBlitFormatter.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="SharpCompress" t="Include">
+                  <e p="Archives" t="Include">
+                    <e p="AbstractArchive.cs" t="Include" />
+                    <e p="AbstractWritableArchive.cs" t="Include" />
+                    <e p="ArchiveFactory.cs" t="Include" />
+                    <e p="GZip" t="Include">
+                      <e p="GZipArchive.cs" t="Include" />
+                      <e p="GZipArchiveEntry.cs" t="Include" />
+                      <e p="GZipWritableArchiveEntry.cs" t="Include" />
+                    </e>
+                    <e p="IArchive.cs" t="Include" />
+                    <e p="IArchiveEntry.cs" t="Include" />
+                    <e p="IArchiveEntryExtensions.cs" t="Include" />
+                    <e p="IArchiveExtensions.cs" t="Include" />
+                    <e p="IArchiveExtractionListener.cs" t="Include" />
+                    <e p="IWritableArchive.cs" t="Include" />
+                    <e p="IWritableArchiveEntry.cs" t="Include" />
+                    <e p="IWritableArchiveExtensions.cs" t="Include" />
+                    <e p="Rar" t="Include">
+                      <e p="FileInfoRarArchiveVolume.cs" t="Include" />
+                      <e p="FileInfoRarFilePart.cs" t="Include" />
+                      <e p="RarArchive.cs" t="Include" />
+                      <e p="RarArchive.Extensions.cs" t="Include" />
+                      <e p="RarArchiveEntry.cs" t="Include" />
+                      <e p="RarArchiveEntryFactory.cs" t="Include" />
+                      <e p="RarArchiveVolumeFactory.cs" t="Include" />
+                      <e p="SeekableFilePart.cs" t="Include" />
+                      <e p="StreamRarArchiveVolume.cs" t="Include" />
+                    </e>
+                    <e p="SevenZip" t="Include">
+                      <e p="SevenZipArchive.cs" t="Include" />
+                      <e p="SevenZipArchiveEntry.cs" t="Include" />
+                    </e>
+                    <e p="Tar" t="Include">
+                      <e p="TarArchive.cs" t="Include" />
+                      <e p="TarArchiveEntry.cs" t="Include" />
+                      <e p="TarWritableArchiveEntry.cs" t="Include" />
+                    </e>
+                    <e p="Zip" t="Include">
+                      <e p="ZipArchive.cs" t="Include" />
+                      <e p="ZipArchiveEntry.cs" t="Include" />
+                      <e p="ZipWritableArchiveEntry.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Buffers" t="Include">
+                    <e p="ArrayPool.cs" t="Include" />
+                    <e p="DefaultArrayPool.cs" t="Include" />
+                    <e p="DefaultArrayPoolBucket.cs" t="Include" />
+                    <e p="Utilities.cs" t="Include" />
+                  </e>
+                  <e p="Common" t="Include">
+                    <e p="ArchiveEncoding.cs" t="Include" />
+                    <e p="ArchiveException.cs" t="Include" />
+                    <e p="ArchiveExtractionEventArgs.cs" t="Include" />
+                    <e p="ArchiveType.cs" t="Include" />
+                    <e p="CompressedBytesReadEventArgs.cs" t="Include" />
+                    <e p="CompressionType.cs" t="Include" />
+                    <e p="CryptographicException.cs" t="Include" />
+                    <e p="Entry.cs" t="Include" />
+                    <e p="EntryStream.cs" t="Include" />
+                    <e p="ExtractionException.cs" t="Include" />
+                    <e p="ExtractionMethods.cs" t="Include" />
+                    <e p="ExtractionOptions.cs" t="Include" />
+                    <e p="FilePart.cs" t="Include" />
+                    <e p="FilePartExtractionBeginEventArgs.cs" t="Include" />
+                    <e p="FlagUtility.cs" t="Include" />
+                    <e p="GZip" t="Include">
+                      <e p="GZipEntry.cs" t="Include" />
+                      <e p="GZipFilePart.cs" t="Include" />
+                      <e p="GZipVolume.cs" t="Include" />
+                    </e>
+                    <e p="IEntry.cs" t="Include" />
+                    <e p="IEntry.Extensions.cs" t="Include" />
+                    <e p="IExtractionListener.cs" t="Include" />
+                    <e p="IncompleteArchiveException.cs" t="Include" />
+                    <e p="InvalidFormatException.cs" t="Include" />
+                    <e p="IVolume.cs" t="Include" />
+                    <e p="MultipartStreamRequiredException.cs" t="Include" />
+                    <e p="MultiVolumeExtractionException.cs" t="Include" />
+                    <e p="OptionsBase.cs" t="Include" />
+                    <e p="PasswordProtectedException.cs" t="Include" />
+                    <e p="Rar" t="Include">
+                      <e p="Headers" t="Include">
+                        <e p="ArchiveCryptHeader.cs" t="Include" />
+                        <e p="ArchiveHeader.cs" t="Include" />
+                        <e p="AVHeader.cs" t="Include" />
+                        <e p="CommentHeader.cs" t="Include" />
+                        <e p="EndArchiveHeader.cs" t="Include" />
+                        <e p="FileHeader.cs" t="Include" />
+                        <e p="FileNameDecoder.cs" t="Include" />
+                        <e p="Flags.cs" t="Include" />
+                        <e p="IRarHeader.cs" t="Include" />
+                        <e p="MarkHeader.cs" t="Include" />
+                        <e p="NewSubHeaderType.cs" t="Include" />
+                        <e p="ProtectHeader.cs" t="Include" />
+                        <e p="RarHeader.cs" t="Include" />
+                        <e p="RarHeaderFactory.cs" t="Include" />
+                        <e p="SignHeader.cs" t="Include" />
+                      </e>
+                      <e p="RarCrcBinaryReader.cs" t="Include" />
+                      <e p="RarCryptoBinaryReader.cs" t="Include" />
+                      <e p="RarCryptoWrapper.cs" t="Include" />
+                      <e p="RarEntry.cs" t="Include" />
+                      <e p="RarFilePart.cs" t="Include" />
+                      <e p="RarRijndael.cs" t="Include" />
+                      <e p="RarVolume.cs" t="Include" />
+                    </e>
+                    <e p="ReaderExtractionEventArgs.cs" t="Include" />
+                    <e p="SevenZip" t="Include">
+                      <e p="ArchiveDatabase.cs" t="Include" />
+                      <e p="ArchiveReader.cs" t="Include" />
+                      <e p="CBindPair.cs" t="Include" />
+                      <e p="CCoderInfo.cs" t="Include" />
+                      <e p="CFileItem.cs" t="Include" />
+                      <e p="CFolder.cs" t="Include" />
+                      <e p="CMethodId.cs" t="Include" />
+                      <e p="CStreamSwitch.cs" t="Include" />
+                      <e p="DataReader.cs" t="Include" />
+                      <e p="SevenZipEntry.cs" t="Include" />
+                      <e p="SevenZipFilePart.cs" t="Include" />
+                      <e p="SevenZipVolume.cs" t="Include" />
+                    </e>
+                    <e p="Tar" t="Include">
+                      <e p="Headers" t="Include">
+                        <e p="EntryType.cs" t="Include" />
+                        <e p="TarHeader.cs" t="Include" />
+                      </e>
+                      <e p="TarEntry.cs" t="Include" />
+                      <e p="TarFilePart.cs" t="Include" />
+                      <e p="TarHeaderFactory.cs" t="Include" />
+                      <e p="TarReadOnlySubStream.cs" t="Include" />
+                      <e p="TarVolume.cs" t="Include" />
+                    </e>
+                    <e p="Volume.cs" t="Include" />
+                    <e p="Zip" t="Include">
+                      <e p="Headers" t="Include">
+                        <e p="DirectoryEndHeader.cs" t="Include" />
+                        <e p="DirectoryEntryHeader.cs" t="Include" />
+                        <e p="HeaderFlags.cs" t="Include" />
+                        <e p="IgnoreHeader.cs" t="Include" />
+                        <e p="LocalEntryHeader.cs" t="Include" />
+                        <e p="LocalEntryHeaderExtraFactory.cs" t="Include" />
+                        <e p="SplitHeader.cs" t="Include" />
+                        <e p="Zip64DirectoryEndHeader.cs" t="Include" />
+                        <e p="Zip64DirectoryEndLocatorHeader.cs" t="Include" />
+                        <e p="ZipFileEntry.cs" t="Include" />
+                        <e p="ZipHeader.cs" t="Include" />
+                        <e p="ZipHeaderType.cs" t="Include" />
+                      </e>
+                      <e p="PkwareTraditionalCryptoStream.cs" t="Include" />
+                      <e p="PkwareTraditionalEncryptionData.cs" t="Include" />
+                      <e p="SeekableZipFilePart.cs" t="Include" />
+                      <e p="SeekableZipHeaderFactory.cs" t="Include" />
+                      <e p="StreamingZipFilePart.cs" t="Include" />
+                      <e p="StreamingZipHeaderFactory.cs" t="Include" />
+                      <e p="WinzipAesCryptoStream.cs" t="Include" />
+                      <e p="WinzipAesEncryptionData.cs" t="Include" />
+                      <e p="WinzipAesKeySize.cs" t="Include" />
+                      <e p="ZipCompressionMethod.cs" t="Include" />
+                      <e p="ZipEntry.cs" t="Include" />
+                      <e p="ZipFilePart.cs" t="Include" />
+                      <e p="ZipHeaderFactory.cs" t="Include" />
+                      <e p="ZipVolume.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Compressors" t="Include">
+                    <e p="ADC" t="Include">
+                      <e p="ADCBase.cs" t="Include" />
+                      <e p="ADCStream.cs" t="Include" />
+                    </e>
+                    <e p="BZip2" t="Include">
+                      <e p="BZip2Constants.cs" t="Include" />
+                      <e p="BZip2Stream.cs" t="Include" />
+                      <e p="CBZip2InputStream.cs" t="Include" />
+                      <e p="CBZip2OutputStream.cs" t="Include" />
+                      <e p="CRC.cs" t="Include" />
+                    </e>
+                    <e p="CompressionMode.cs" t="Include" />
+                    <e p="Deflate" t="Include">
+                      <e p="Crc32.cs" t="Include" />
+                      <e p="DeflateManager.cs" t="Include" />
+                      <e p="DeflateStream.cs" t="Include" />
+                      <e p="DeflateTree.cs" t="Include" />
+                      <e p="FlushType.cs" t="Include" />
+                      <e p="GZipStream.cs" t="Include" />
+                      <e p="Inflate.cs" t="Include" />
+                      <e p="InfTree.cs" t="Include" />
+                      <e p="Zlib.cs" t="Include" />
+                      <e p="ZlibBaseStream.cs" t="Include" />
+                      <e p="ZlibCodec.cs" t="Include" />
+                      <e p="ZlibConstants.cs" t="Include" />
+                      <e p="ZlibStream.cs" t="Include" />
+                    </e>
+                    <e p="Deflate64" t="Include">
+                      <e p="BlockType.cs" t="Include" />
+                      <e p="Deflate64Stream.cs" t="Include" />
+                      <e p="DeflateInput.cs" t="Include" />
+                      <e p="FastEncoderStatus.cs" t="Include" />
+                      <e p="HuffmanTree.cs" t="Include" />
+                      <e p="InflaterManaged.cs" t="Include" />
+                      <e p="InflaterState.cs" t="Include" />
+                      <e p="InputBuffer.cs" t="Include" />
+                      <e p="Match.cs" t="Include" />
+                      <e p="MatchState.cs" t="Include" />
+                      <e p="OutputWindow.cs" t="Include" />
+                    </e>
+                    <e p="Filters" t="Include">
+                      <e p="BCJ2Filter.cs" t="Include" />
+                      <e p="BCJFilter.cs" t="Include" />
+                      <e p="Filter.cs" t="Include" />
+                    </e>
+                    <e p="LZMA" t="Include">
+                      <e p="AesDecoderStream.cs" t="Include" />
+                      <e p="Bcj2DecoderStream.cs" t="Include" />
+                      <e p="BitVector.cs" t="Include" />
+                      <e p="CRC.cs" t="Include" />
+                      <e p="DecoderStream.cs" t="Include" />
+                      <e p="ICoder.cs" t="Include" />
+                      <e p="Log.cs" t="Include" />
+                      <e p="LZ" t="Include">
+                        <e p="LzBinTree.cs" t="Include" />
+                        <e p="LzInWindow.cs" t="Include" />
+                        <e p="LzOutWindow.cs" t="Include" />
+                      </e>
+                      <e p="LZipStream.cs" t="Include" />
+                      <e p="LzmaBase.cs" t="Include" />
+                      <e p="LzmaDecoder.cs" t="Include" />
+                      <e p="LzmaEncoder.cs" t="Include" />
+                      <e p="LzmaEncoderProperties.cs" t="Include" />
+                      <e p="LzmaStream.cs" t="Include" />
+                      <e p="RangeCoder" t="Include">
+                        <e p="RangeCoder.cs" t="Include" />
+                        <e p="RangeCoderBit.cs" t="Include" />
+                        <e p="RangeCoderBitTree.cs" t="Include" />
+                      </e>
+                      <e p="Registry.cs" t="Include" />
+                      <e p="Utilites" t="Include">
+                        <e p="CrcBuilderStream.cs" t="Include" />
+                        <e p="CrcCheckStream.cs" t="Include" />
+                        <e p="IPasswordProvider.cs" t="Include" />
+                        <e p="Utils.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="PPMd" t="Include">
+                      <e p="H" t="Include">
+                        <e p="FreqData.cs" t="Include" />
+                        <e p="ModelPPM.cs" t="Include" />
+                        <e p="Pointer.cs" t="Include" />
+                        <e p="PpmContext.cs" t="Include" />
+                        <e p="RangeCoder.cs" t="Include" />
+                        <e p="RarMemBlock.cs" t="Include" />
+                        <e p="RarNode.cs" t="Include" />
+                        <e p="See2Context.cs" t="Include" />
+                        <e p="State.cs" t="Include" />
+                        <e p="StateRef.cs" t="Include" />
+                        <e p="SubAllocator.cs" t="Include" />
+                      </e>
+                      <e p="I1" t="Include">
+                        <e p="Allocator.cs" t="Include" />
+                        <e p="Coder.cs" t="Include" />
+                        <e p="MemoryNode.cs" t="Include" />
+                        <e p="Model.cs" t="Include" />
+                        <e p="ModelRestorationMethod.cs" t="Include" />
+                        <e p="Pointer.cs" t="Include" />
+                        <e p="PpmContext.cs" t="Include" />
+                        <e p="PpmState.cs" t="Include" />
+                        <e p="See2Context.cs" t="Include" />
+                      </e>
+                      <e p="PpmdProperties.cs" t="Include" />
+                      <e p="PpmdStream.cs" t="Include" />
+                      <e p="PpmdVersion.cs" t="Include" />
+                    </e>
+                    <e p="Rar" t="Include">
+                      <e p="IRarUnpack.cs" t="Include" />
+                      <e p="MultiVolumeReadOnlyStream.cs" t="Include" />
+                      <e p="RarCRC.cs" t="Include" />
+                      <e p="RarCrcStream.cs" t="Include" />
+                      <e p="RarStream.cs" t="Include" />
+                      <e p="UnpackV1" t="Include">
+                        <e p="Decode" t="Include">
+                          <e p="AudioVariables.cs" t="Include" />
+                          <e p="BitDecode.cs" t="Include" />
+                          <e p="CodeType.cs" t="Include" />
+                          <e p="Decode.cs" t="Include" />
+                          <e p="DistDecode.cs" t="Include" />
+                          <e p="FilterType.cs" t="Include" />
+                          <e p="LitDecode.cs" t="Include" />
+                          <e p="LowDistDecode.cs" t="Include" />
+                          <e p="MultDecode.cs" t="Include" />
+                          <e p="PackDef.cs" t="Include" />
+                          <e p="RepDecode.cs" t="Include" />
+                        </e>
+                        <e p="PPM" t="Include">
+                          <e p="BlockTypes.cs" t="Include" />
+                        </e>
+                        <e p="Unpack.cs" t="Include" />
+                        <e p="Unpack15.cs" t="Include" />
+                        <e p="Unpack20.cs" t="Include" />
+                        <e p="Unpack50.cs" t="Include" />
+                        <e p="UnpackFilter.cs" t="Include" />
+                        <e p="UnpackInline.cs" t="Include" />
+                        <e p="UnpackUtility.cs" t="Include" />
+                      </e>
+                      <e p="UnpackV2017" t="Include">
+                        <e p="BitInput.getbits_cpp.cs" t="Include" />
+                        <e p="BitInput.getbits_hpp.cs" t="Include" />
+                        <e p="FragmentedWindow.unpack50frag_cpp.cs" t="Include" />
+                        <e p="notes.txt" t="Include" />
+                        <e p="PackDef.compress_hpp.cs" t="Include" />
+                        <e p="Unpack.cs" t="Include" />
+                        <e p="Unpack.rawint_hpp.cs" t="Include" />
+                        <e p="Unpack.unpack15_cpp.cs" t="Include" />
+                        <e p="Unpack.unpack20_cpp.cs" t="Include" />
+                        <e p="Unpack.unpack30_cpp.cs" t="Include" />
+                        <e p="Unpack.unpack50_cpp.cs" t="Include" />
+                        <e p="Unpack.unpack_cpp.cs" t="Include" />
+                        <e p="Unpack.unpackinline_cpp.cs" t="Include" />
+                        <e p="unpack_hpp.cs" t="Include" />
+                      </e>
+                      <e p="VM" t="Include">
+                        <e p="BitInput.cs" t="Include" />
+                        <e p="RarVM.cs" t="Include" />
+                        <e p="VMCmdFlags.cs" t="Include" />
+                        <e p="VMCommands.cs" t="Include" />
+                        <e p="VMFlags.cs" t="Include" />
+                        <e p="VMOpType.cs" t="Include" />
+                        <e p="VMPreparedCommand.cs" t="Include" />
+                        <e p="VMPreparedOperand.cs" t="Include" />
+                        <e p="VMPreparedProgram.cs" t="Include" />
+                        <e p="VMStandardFilters.cs" t="Include" />
+                        <e p="VMStandardFilterSignature.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Xz" t="Include">
+                      <e p="BinaryUtils.cs" t="Include" />
+                      <e p="CheckType.cs" t="Include" />
+                      <e p="Crc32.cs" t="Include" />
+                      <e p="Crc64.cs" t="Include" />
+                      <e p="Filters" t="Include">
+                        <e p="BlockFilter.cs" t="Include" />
+                        <e p="Lzma2Filter.cs" t="Include" />
+                      </e>
+                      <e p="MultiByteIntegers.cs" t="Include" />
+                      <e p="ReadOnlyStream.cs" t="Include" />
+                      <e p="XZBlock.cs" t="Include" />
+                      <e p="XZFooter.cs" t="Include" />
+                      <e p="XZHeader.cs" t="Include" />
+                      <e p="XZIndex.cs" t="Include" />
+                      <e p="XZIndexMarkerReachedException.cs" t="Include" />
+                      <e p="XZIndexRecord.cs" t="Include" />
+                      <e p="XZReadOnlyStream.cs" t="Include" />
+                      <e p="XZStream.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Converters" t="Include">
+                    <e p="DataConverter.cs" t="Include" />
+                  </e>
+                  <e p="Crypto" t="Include">
+                    <e p="Crc32Stream.cs" t="Include" />
+                    <e p="CryptoException.cs" t="Include" />
+                    <e p="DataLengthException.cs" t="Include" />
+                    <e p="IBlockCipher.cs" t="Include" />
+                    <e p="ICipherParameters.cs" t="Include" />
+                    <e p="KeyParameter.cs" t="Include" />
+                    <e p="RijndaelEngine.cs" t="Include" />
+                  </e>
+                  <e p="EnumExtensions.cs" t="Include" />
+                  <e p="IO" t="Include">
+                    <e p="BufferedSubStream.cs" t="Include" />
+                    <e p="CountingWritableSubStream.cs" t="Include" />
+                    <e p="ListeningStream.cs" t="Include" />
+                    <e p="MarkingBinaryReader.cs" t="Include" />
+                    <e p="NonDisposingStream.cs" t="Include" />
+                    <e p="ReadOnlySubStream.cs" t="Include" />
+                    <e p="RewindableStream.cs" t="Include" />
+                    <e p="StreamingMode.cs" t="Include" />
+                  </e>
+                  <e p="Lazy.cs" t="Include" />
+                  <e p="LazyReadOnlyCollection.cs" t="Include" />
+                  <e p="Readers" t="Include">
+                    <e p="AbstractReader.cs" t="Include" />
+                    <e p="GZip" t="Include">
+                      <e p="GZipReader.cs" t="Include" />
+                    </e>
+                    <e p="IReader.cs" t="Include" />
+                    <e p="IReaderExtensions.cs" t="Include" />
+                    <e p="IReaderExtractionListener.cs" t="Include" />
+                    <e p="Rar" t="Include">
+                      <e p="MultiVolumeRarReader.cs" t="Include" />
+                      <e p="NonSeekableStreamFilePart.cs" t="Include" />
+                      <e p="RarReader.cs" t="Include" />
+                      <e p="RarReaderEntry.cs" t="Include" />
+                      <e p="RarReaderVolume.cs" t="Include" />
+                      <e p="SingleVolumeRarReader.cs" t="Include" />
+                    </e>
+                    <e p="ReaderFactory.cs" t="Include" />
+                    <e p="ReaderOptions.cs" t="Include" />
+                    <e p="ReaderProgress.cs" t="Include" />
+                    <e p="Tar" t="Include">
+                      <e p="TarReader.cs" t="Include" />
+                    </e>
+                    <e p="Zip" t="Include">
+                      <e p="ZipReader.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="ReadOnlyCollection.cs" t="Include" />
+                  <e p="Utility.cs" t="Include" />
+                  <e p="Writers" t="Include">
+                    <e p="AbstractWriter.cs" t="Include" />
+                    <e p="GZip" t="Include">
+                      <e p="GZipWriter.cs" t="Include" />
+                      <e p="GZipWriterOptions.cs" t="Include" />
+                    </e>
+                    <e p="IWriter.cs" t="Include" />
+                    <e p="IWriterExtensions.cs" t="Include" />
+                    <e p="Tar" t="Include">
+                      <e p="TarWriter.cs" t="Include" />
+                      <e p="TarWriterOptions.cs" t="Include" />
+                    </e>
+                    <e p="WriterFactory.cs" t="Include" />
+                    <e p="WriterOptions.cs" t="Include" />
+                    <e p="Zip" t="Include">
+                      <e p="ZipCentralDirectoryEntry.cs" t="Include" />
+                      <e p="ZipWriter.cs" t="Include" />
+                      <e p="ZipWriterEntryOptions.cs" t="Include" />
+                      <e p="ZipWriterOptions.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+              <e p="Util" t="Include">
+                <e p="EditorCoroutine.cs" t="Include" />
+                <e p="GameObjectContainer.cs" t="Include" />
+                <e p="GpmFileUtil.cs" t="Include" />
+                <e p="GpmJsonMapper.cs" t="Include" />
+                <e p="GpmMessagePackMapper.cs" t="Include" />
+                <e p="GpmPathUtil.cs" t="Include" />
+                <e p="Miscellaneous.cs" t="Include" />
+                <e p="XmlHelper.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Communicator" t="Include">
+              <e p="gpm_communicator.asmdef" t="Include" />
+              <e p="Plugins" t="Include">
+                <e p="Android" t="Include" />
+                <e p="Ios" t="Include">
+                  <e p="GpmCommunicatorPlugin" t="Include">
+                    <e p="Interface" t="Include" />
+                    <e p="Internal" t="Include" />
+                    <e p="Vo" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="GpmCommunicator.cs" t="Include" />
+                <e p="GpmCommunicatorCallback.cs" t="Include" />
+                <e p="Internal" t="Include">
+                  <e p="Communicator.cs" t="Include" />
+                  <e p="ComponentManager.cs" t="Include" />
+                  <e p="GameObjectManager.cs" t="Include" />
+                  <e p="Implementation" t="Include">
+                    <e p="CommunicatorImplementation.cs" t="Include" />
+                  </e>
+                  <e p="Interface" t="Include">
+                    <e p="INativeMessageSender.cs" t="Include" />
+                  </e>
+                  <e p="Logger.cs" t="Include" />
+                  <e p="Platform" t="Include">
+                    <e p="Android" t="Include">
+                      <e p="AndroidMessageSender.cs" t="Include" />
+                    </e>
+                    <e p="Ios" t="Include">
+                      <e p="IosMessageSender.cs" t="Include" />
+                      <e p="IosMessageSenderExtern.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Vo" t="Include">
+                  <e p="GpmCommunicatorVO.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="LICENSE.txt" t="Include" />
+            <e p="Manager" t="Include">
+              <e p="Data" t="Include">
+                <e p="strings.xml" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="Constant" t="Include">
+                  <e p="ManagerCallbacks.cs" t="Include" />
+                  <e p="ManagerError.cs" t="Include" />
+                  <e p="ManagerEvents.cs" t="Include" />
+                  <e p="ManagerInfos.cs" t="Include" />
+                  <e p="ManagerPaths.cs" t="Include" />
+                  <e p="ManagerStrings.cs" t="Include" />
+                  <e p="Vo" t="Include">
+                    <e p="CdnInfo.cs" t="Include" />
+                    <e p="InstallInfo.cs" t="Include" />
+                    <e p="NoticeInfo.cs" t="Include" />
+                    <e p="ServiceInfo.cs" t="Include" />
+                    <e p="ServiceList.cs" t="Include" />
+                    <e p="SupportInfo.cs" t="Include" />
+                    <e p="UiRefreshInfo.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="GpmManagerMenu.cs" t="Include" />
+                <e p="GpmManagerVersion.cs" t="Include" />
+                <e p="Internal" t="Include">
+                  <e p="GpmDependentServiceFinder.cs" t="Include" />
+                  <e p="GpmManager.cs" t="Include" />
+                  <e p="GpmManagerIndicator.cs" t="Include" />
+                  <e p="GpmServiceDownloader.cs" t="Include" />
+                  <e p="GpmServiceInstaller.cs" t="Include" />
+                </e>
+                <e p="UI" t="Include">
+                  <e p="Constant" t="Include">
+                    <e p="ManagerUiDefine.cs" t="Include" />
+                    <e p="ManagerUiIcon.cs" t="Include" />
+                    <e p="ManagerUiStyle.cs" t="Include" />
+                  </e>
+                  <e p="GpmManagerWindow.cs" t="Include" />
+                  <e p="GpmServiceDetail.cs" t="Include" />
+                  <e p="GpmServiceList.cs" t="Include" />
+                  <e p="Helper" t="Include">
+                    <e p="ManagerUi.cs" t="Include" />
+                    <e p="ManagerUiLayout.cs" t="Include" />
+                    <e p="UiView.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Util" t="Include">
+                  <e p="AD" t="Include">
+                    <e p="Advertisement.cs" t="Include" />
+                    <e p="Internal" t="Include">
+                      <e p="Implementation" t="Include">
+                        <e p="AdvertisementImplementation.cs" t="Include" />
+                      </e>
+                      <e p="Vo" t="Include">
+                        <e p="AdvertisementVO.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Vo" t="Include">
+                      <e p="AdvertisementConfigurations.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="FileManager.cs" t="Include" />
+                  <e p="ManagerConfig.cs" t="Include" />
+                  <e p="ManagerTime.cs" t="Include" />
+                  <e p="Notice" t="Include">
+                    <e p="Notice.cs" t="Include" />
+                  </e>
+                  <e p="StringUtil.cs" t="Include" />
+                </e>
+              </e>
+              <e p="gpm_manager.asmdef" t="Include" />
+            </e>
+            <e p="WebView" t="Include">
+              <e p="gpm_webview.asmdef" t="Include" />
+              <e p="Plugins" t="Include">
+                <e p="Android" t="Include" />
+                <e p="Ios" t="Include">
+                  <e p="GpmWebViewPlugin" t="Include">
+                    <e p="Util" t="Include" />
+                    <e p="Vo" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Sample" t="Include">
+                <e p="SampleWebView.cs" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="Consts" t="Include">
+                  <e p="GpmOrientation.cs" t="Include" />
+                  <e p="GpmWebViewContentMode.cs" t="Include" />
+                  <e p="GpmWebViewCustomSchemeCommand.cs" t="Include" />
+                  <e p="GpmWebViewErrorCode.cs" t="Include" />
+                  <e p="GpmWebViewStyle.cs" t="Include" />
+                </e>
+                <e p="Data" t="Include">
+                  <e p="GpmWebViewRequest.cs" t="Include" />
+                  <e p="GpmWebViewRequest.CustomSchemePostCommand.cs" t="Include" />
+                </e>
+                <e p="Editor" t="Include">
+                  <e p="GpmWebViewAndroidPostBuildProcessor.cs" t="Include" />
+                </e>
+                <e p="GpmWebView.cs" t="Include" />
+                <e p="GpmWebViewCallback.cs" t="Include" />
+                <e p="GpmWebViewError.cs" t="Include" />
+                <e p="GpmWebViewSafeBrowsing.cs" t="Include" />
+                <e p="Internal" t="Include">
+                  <e p="Implementation" t="Include">
+                    <e p="WebViewImplementation.cs" t="Include" />
+                  </e>
+                  <e p="Interface" t="Include">
+                    <e p="IWebView.cs" t="Include" />
+                  </e>
+                  <e p="Platforms" t="Include">
+                    <e p="Default" t="Include">
+                      <e p="DefaultWebView.cs" t="Include" />
+                    </e>
+                    <e p="Native" t="Include">
+                      <e p="Android" t="Include">
+                        <e p="AndroidWebView.cs" t="Include" />
+                      </e>
+                      <e p="Data" t="Include">
+                        <e p="NativeMessage.cs" t="Include" />
+                        <e p="NativeRequest.cs" t="Include" />
+                      </e>
+                      <e p="Ios" t="Include">
+                        <e p="IOSWebView.cs" t="Include" />
+                      </e>
+                      <e p="NativeCallbackHandler.cs" t="Include" />
+                      <e p="NativeWebView.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="gpm_common.csproj" t="IncludeRecursive" />
+      <e p="gpm_communicator.csproj" t="IncludeRecursive" />
+      <e p="gpm_manager.csproj" t="IncludeRecursive" />
+      <e p="gpm_webview.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Sample.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
